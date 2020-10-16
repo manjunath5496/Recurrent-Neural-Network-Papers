@@ -2,49 +2,41 @@
 
 <ul>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(1).pdf" style="text-decoration:none;">5-Level Paging and 5-Level EPT</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(1).pdf" style="text-decoration:none;">Multi-Dimensional Recurrent Neural Networks</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(2).pdf" style="text-decoration:none;">37 Million Compilations:
-Investigating Novice Programming Mistakes in Large-Scale Student Data</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(2).pdf" style="text-decoration:none;">Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(3).pdf" style="text-decoration:none;">Unwinding the Stack:
-Exploring how C++ Exceptions work on Windows</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(4).pdf" style="text-decoration:none;">A Block-sorting Lossless
-Data Compression Algorithm</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(5).pdf" style="text-decoration:none;">A Brief Introduction to
-Neural Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(6).pdf" style="text-decoration:none;">A Brief Introduction to the Standard Annotation Language (SAL)</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(7).pdf" style="text-decoration:none;">A Brief Tutorial on Database Queries, Data Mining, and OLAP</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(3).pdf" style="text-decoration:none;">Recurrent Models of Visual Attention</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(4).pdf" style="text-decoration:none;">Neural Machine Translation by Jointly Learning to Align and Translate</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(5).pdf" style="text-decoration:none;">Explain Images with Multimodal Recurrent Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(6).pdf" style="text-decoration:none;">Memory Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(7).pdf" style="text-decoration:none;">Learning to Execute</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(8).pdf" style="text-decoration:none;"> A Case Study in Optimizing HTM-Enabled Dynamic Data Structures: Patricia Tries</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(8).pdf" style="text-decoration:none;"> Neural Turing Machines</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(9).pdf" style="text-decoration:none;">
-A Catalogue of Optimizing Transformations </a></li>
+Addressing the Rare Word Problem in Neural Machine Translation </a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(10).pdf" style="text-decoration:none;">A Comparison of
-Programming Languages in Economics </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(11).pdf" style="text-decoration:none;">A Comparison of Software and Hardware Techniques for x86 Virtualization</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(12).pdf" style="text-decoration:none;">A comparison of SPDY and HTTP performance</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(13).pdf" style="text-decoration:none;">A Compilation Target for Probabilistic Programming Languages</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(10).pdf" style="text-decoration:none;">Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(11).pdf" style="text-decoration:none;">Long-term Recurrent Convolutional Networks for Visual Recognition and Description</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(12).pdf" style="text-decoration:none;">Show and Tell: A Neural Image Caption Generator</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(13).pdf" style="text-decoration:none;">From Captions to Visual Concepts and Back</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(14).pdf" style="text-decoration:none;">A comprehensive study of
-Convergent and Commutative Replicated Data Types</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(14).pdf" style="text-decoration:none;">Learning a Recurrent Visual Representation for Image Caption Generation</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(15).pdf" style="text-decoration:none;">A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(15).pdf" style="text-decoration:none;">On Using Very Large Target Vocabulary for Neural Machine Translation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(16).pdf" style="text-decoration:none;">A Compressed Suffix Tree Based
-Implementation With Low Peak Memory Usage</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(16).pdf" style="text-decoration:none;">Translating Videos to Natural Language Using Deep Recurrent Neural Networks</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(17).pdf" style="text-decoration:none;">A Course in
-Machine Learning</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(17).pdf" style="text-decoration:none;">Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(18).pdf" style="text-decoration:none;">A Crash Course in x86 Assembly for Reverse Engineers</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(18).pdf" style="text-decoration:none;">Gated Feedback Recurrent Neural Networks</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(19).pdf" style="text-decoration:none;">A Detailed Analysis of the Component Object Model</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(19).pdf" style="text-decoration:none;">Conditional Random Fields as Recurrent Neural Networks</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(20).PDF" style="text-decoration:none;">A Dynamic Perfect Hash Function Defined by an Extended Hash Indicator Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(20).pdf" style="text-decoration:none;">A Dynamic Perfect Hash Function Defined by an Extended Hash Indicator Table</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(21).pdf" style="text-decoration:none;">A Family of Perfect Hashing Methods</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Recurrent-Neural-Network-Papers/blob/master/rnn(22).pdf" style="text-decoration:none;">A Fast x86 Implementation of Select</a></li> 
